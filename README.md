@@ -1,4 +1,5 @@
 #Movie Guide WebApp
+
 A fun, responsive web application that helps users search for movies and view movie details, all built with HTML, CSS, and JavaScript.
 
 Features
